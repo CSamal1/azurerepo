@@ -1,4 +1,4 @@
-create table Employee6
+create table employee
 (
 empid varchar(15),
 empname varchar(10),
