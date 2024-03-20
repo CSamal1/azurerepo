@@ -18,6 +18,4 @@ values('chi49', 'chi', 'it', 20000)
 insert into employee
 values('chi4', 'samal', 'it', 20000)
 
- rbyttyn
-btntntunm
-tnttm
+
